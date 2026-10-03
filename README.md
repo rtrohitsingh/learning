@@ -1,3 +1,3 @@
 # learning
-This is my first learning project
+This is my first learning project.
 Author - Rohit
